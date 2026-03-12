@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+supabase
+anthropic
+httpx
+apscheduler
+twilio
+resend
+slowapi
+python-telegram-bot
