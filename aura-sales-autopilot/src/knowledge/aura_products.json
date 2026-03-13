@@ -1,0 +1,133 @@
+{
+  "products": [
+    {
+      "id": "prod_001",
+      "brand": "Urban Trend",
+      "title": "Women Floral Print Maxi Dress",
+      "category": "Women",
+      "subcategory": "Dresses",
+      "price": 1299,
+      "original_price": 2599,
+      "discount": 50,
+      "rating": 4.5,
+      "review_count": 128,
+      "tags": ["floral", "summer", "casual", "maxi"],
+      "description": "Beautiful floral print maxi dress perfect for summer occasions. Lightweight fabric with flowy design.",
+      "profit_margin": 35
+    },
+    {
+      "id": "prod_002",
+      "brand": "Denim Co",
+      "title": "Men Regular Fit Jeans",
+      "category": "Men",
+      "subcategory": "Jeans",
+      "price": 999,
+      "original_price": 1999,
+      "discount": 50,
+      "rating": 3.9,
+      "review_count": 342,
+      "tags": ["denim", "casual", "everyday"],
+      "description": "Classic regular fit jeans with durable denim material. Perfect for everyday wear.",
+      "profit_margin": 30
+    },
+    {
+      "id": "prod_003",
+      "brand": "LuxeAccessories",
+      "title": "Women Premium Leather Handbag",
+      "category": "Accessories",
+      "subcategory": "Bags",
+      "price": 1899,
+      "original_price": 3999,
+      "discount": 52,
+      "rating": 4.9,
+      "review_count": 67,
+      "tags": ["leather", "premium", "handbag"],
+      "description": "Premium genuine leather handbag with multiple compartments. Elegant design for professional women.",
+      "profit_margin": 45
+    },
+    {
+      "id": "prod_004",
+      "brand": "StepUp",
+      "title": "Classic White Sneakers",
+      "category": "Footwear",
+      "subcategory": "Sneakers",
+      "price": 1299,
+      "original_price": 2599,
+      "discount": 50,
+      "rating": 4.4,
+      "review_count": 215,
+      "tags": ["sneakers", "casual", "white", "trending"],
+      "description": "Versatile white sneakers that match any outfit. Comfortable cushioning for all-day wear.",
+      "profit_margin": 40
+    },
+    {
+      "id": "prod_005",
+      "brand": "Summer Breeze",
+      "title": "Women Wrap Style Dress",
+      "category": "Women",
+      "subcategory": "Dresses",
+      "price": 1499,
+      "original_price": 2999,
+      "discount": 50,
+      "rating": 4.6,
+      "review_count": 93,
+      "tags": ["wrap dress", "party", "elegant"],
+      "description": "Flattering wrap dress that suits all body types. Perfect for parties and formal events.",
+      "profit_margin": 42
+    },
+    {
+      "id": "prod_006",
+      "brand": "Glamour",
+      "title": "Gold Plated Necklace Set",
+      "category": "Accessories",
+      "subcategory": "Jewelry",
+      "price": 899,
+      "original_price": 1799,
+      "discount": 50,
+      "rating": 4.8,
+      "review_count": 156,
+      "tags": ["jewelry", "gold", "necklace", "set"],
+      "description": "Elegant gold-plated necklace set with matching earrings. Adds glamour to any outfit.",
+      "profit_margin": 60
+    },
+    {
+      "id": "prod_007",
+      "brand": "Sporty",
+      "title": "Men Running Shoes",
+      "category": "Footwear",
+      "subcategory": "Sports",
+      "price": 1499,
+      "original_price": 2999,
+      "discount": 50,
+      "rating": 4.3,
+      "review_count": 187,
+      "tags": ["running", "sports", "athletic"],
+      "description": "Lightweight running shoes with breathable mesh. Cushioned sole for maximum comfort.",
+      "profit_margin": 38
+    },
+    {
+      "id": "prod_008",
+      "brand": "Aura Exclusives",
+      "title": "Men Solid Slim Fit Cotton Shirt",
+      "category": "Men",
+      "subcategory": "Shirts",
+      "price": 699,
+      "original_price": 1499,
+      "discount": 53,
+      "rating": 4.1,
+      "review_count": 423,
+      "tags": ["shirt", "cotton", "slim fit", "formal"],
+      "description": "Premium cotton slim fit shirt. Breathable and comfortable for office wear.",
+      "profit_margin": 55
+    }
+  ],
+  
+  "categories": ["Men", "Women", "Kids", "Footwear", "Accessories"],
+  
+  "faq": {
+    "shipping": "Free shipping on orders above ₹999. Standard delivery 3-5 business days.",
+    "returns": "30-day easy returns. Items must be unused with tags attached.",
+    "payment": "All major credit cards, UPI, and COD available.",
+    "contact": "Support: +91 00000 00000 or support@aura.com"
+  }
+}
